@@ -26,6 +26,7 @@ Apresentação para palestra de educação continuada em enfermagem no Real Hosp
 
 - `project/deck.json`: índice da apresentação (ordem dos slides, seções e fontes)
 - `project/slides/*.html`: um arquivo por slide, no formato do artefato Slides, com as notas do apresentador no `<aside>`
+- `assets/logo-real-hospital-portugues.png`: logotipo do Real Hospital Português com fundo transparente, na capa, nas divisórias de seção e no encerramento, ao lado do logotipo da Real Educação Técnico
 - `assets/logo-real-educacao-tecnico.png`: logotipo da Real Educação Técnico com fundo transparente, presente em todos os slides (capa, divisórias de seção, encerramento e rodapé)
 
 ## Observação
